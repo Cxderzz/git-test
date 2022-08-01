@@ -1,0 +1,8 @@
+html {
+    background: red;
+}
+
+body,
+html {
+    height: 150vh;
+}
